@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bkaplan-github/parameterized-content-block.git"
+    "url": "git+https://github.com/rmiller-github/parameterized-content-block-master.git"
   },
-  "author": "Brian Kaplan",
+  "author": "Ryan Miller",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/bkaplan-github/parameterized-content-block/issues"
+    "url": "https://github.com/rmiller-github/parameterized-content-block-master/issues"
   },
-  "homepage": "https://github.com/bkaplan-github/parameterized-content-block#readme",
+  "homepage": "https://github.com/rmiller-github/parameterized-content-block-master#readme",
   "dependencies": {
     "@salesforce-ux/design-system": "^2.5.2",
     "blocksdk": "^1.0.0",
